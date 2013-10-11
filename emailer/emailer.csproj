@@ -105,7 +105,5 @@
   </ProjectExtensions>
   <ItemGroup>
     <None Include="emailer.csproj" />
-    <None Include="bin\emailer.dll" />
-    <None Include="bin\emailer.dll.mdb" />
   </ItemGroup>
 </Project>
