@@ -1,16 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="emailer/css/general.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="emailer/javeriana.master">
     <Files>
       <File FileName="emailer/Default.aspx" Line="5" Column="1" />
-      <File FileName="emailer/Global.asax" Line="2" Column="1" />
-      <File FileName="emailer/javeriana.master" Line="21" Column="17" />
-      <File FileName="emailer/inc/Search.ascx" Line="1" Column="35" />
-      <File FileName="emailer/inc/Banner.ascx" Line="4" Column="33" />
+      <File FileName="emailer/inc/Banner.ascx" Line="9" Column="9" />
       <File FileName="emailer/inc/Footer.ascx" Line="1" Column="35" />
-      <File FileName="emailer/inc/MenuBar.ascx" Line="6" Column="10" />
-      <File FileName="emailer/inc/SideMenu.ascx" Line="1" Column="35" />
-      <File FileName="emailer/css/general.css" Line="65" Column="29" />
+      <File FileName="emailer/inc/MenuBar.ascx" Line="104" Column="6" />
+      <File FileName="emailer/inc/Search.ascx" Line="14" Column="8" />
+      <File FileName="emailer/inc/Search.ascx.cs" Line="13" Column="1" />
+      <File FileName="emailer/inc/SideMenu.ascx" Line="23" Column="6" />
+      <File FileName="emailer/javeriana.master" Line="35" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
