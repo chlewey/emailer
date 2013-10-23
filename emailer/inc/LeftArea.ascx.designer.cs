@@ -13,6 +13,6 @@ namespace bolsaemp {
 	
 	public partial class LeftArea {
 		
-		protected bolsaemp.SideMenu SideMenu;
+		protected emailer.SideMenu SideMenu;
 	}
 }

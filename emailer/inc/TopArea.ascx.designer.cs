@@ -13,12 +13,12 @@ namespace bolsaemp {
 	
 	public partial class TopArea {
 		
-		protected bolsaemp.Search Search;
+		protected emailer.Search Search;
 		
-		protected bolsaemp.TopMenu TopMenu;
+		protected System.Web.UI.UserControl TopMenu;
 		
-		protected bolsaemp.MenuBar MenuBar;
+		protected emailer.MenuBar MenuBar;
 		
-		protected bolsaemp.Banner Banner;
+		protected emailer.Banner Banner;
 	}
 }
